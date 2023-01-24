@@ -197,13 +197,13 @@ header{
     align-items: flex-end;
 }
 #t1-up{
-    background-image: url(/img/gallery/discount-item-1.png);
+    background-image: url(../img/gallery/discount-item-1.png);
 }
 #t2-up{
-    background-image: url(/img/gallery/discount-item-2.png);
+    background-image: url(../img/gallery/discount-item-2.png);
 }
 #t3-up{
-    background-image: url(/img/gallery/discount-item-3.png);
+    background-image: url(../img/gallery/discount-item-3.png);
 }
 #t4-up{
     background-image: url(../img/gallery/discount-item-4.png);
@@ -352,28 +352,28 @@ header{
     padding: 5px;
 }
 #rest1{
-    background-image: url(/img/gallery/food-world.png);
+    background-image: url(../img/gallery/food-world.png);
 }
 #rest2{
-    background-image: url(/img/gallery/pizza-hub.png);
+    background-image: url(../img/gallery/pizza-hub.png);
 }
 #rest3{
-    background-image: url(/img/gallery/donuts-hut.png);
+    background-image: url(../img/gallery/donuts-hut.png);
 }
 #rest4{
-    background-image: url(/img/gallery/donuthut.png);
+    background-image: url(../img/gallery/donuthut.png);
 }
 #rest5{
-    background-image: url(/img/gallery/ruby-tuesday.png);
+    background-image: url(../img/gallery/ruby-tuesday.png);
 }
 #rest6{
-    background-image: url(/img/gallery/kuakata.png);
+    background-image: url(../img/gallery/kuakata.png);
 }
 #rest7{
-    background-image: url(/img/gallery/red-square.png);
+    background-image: url(../img/gallery/red-square.png);
 }
 #rest8{
-    background-image: url(/img/gallery/taco-bell.png);
+    background-image: url(../img/gallery/taco-bell.png);
 }
 .rest .rest-name{
     width: 100%;
@@ -493,7 +493,7 @@ header{
 }
 .app-main{
     height: 135vh;
-    background-image: url(/img/illustrations/Curve.svg);
+    background-image: url(../img/illustrations/Curve.svg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-color: #feefd0;
@@ -646,7 +646,7 @@ header{
     object-fit: cover;
 }
 .ready-order{
-    background-image: url(/img/gallery/cta-two-bg.png);
+    background-image: url(../img/gallery/cta-two-bg.png);
     margin-top: 80px;
     height: 300px;
     width: 100%;
